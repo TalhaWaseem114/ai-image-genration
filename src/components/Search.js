@@ -51,7 +51,7 @@ export default function Search() {
           ) : (
             <div className="limit-wrapper">
               <h1>Api reached at its limit</h1>
-              <a href="#search" className="git-btn">See on Github<i className="fa-brands fa-github"></i></a>
+              <a href="https://github.com/TalhaWaseem114/ai-image-genration" className="git-btn">See on Github<i className="fa-brands fa-github"></i></a>
             </div>
           )
         }
